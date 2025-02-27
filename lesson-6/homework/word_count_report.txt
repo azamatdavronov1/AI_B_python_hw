@@ -1,0 +1,8 @@
+Word Count Report
+Total Words: 20
+Top 5 Words:
+hi - 3
+a - 1
+zaa - 1
+i - 1
+am - 1
