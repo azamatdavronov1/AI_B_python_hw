@@ -143,7 +143,7 @@
 # print(minOfSub(tup, 4, 1))
 
 
-# # 19
+# 19
 # def removal(tup, element):
 #     return tuple(x for x in tup if x != element)
 # tupl = (1, 2, 3, 4)
